@@ -9,9 +9,13 @@ When to get bored while studying or working you can read a joke to make your moo
 <img width="152" alt="Screenshot 2021-09-29 180558" src="https://user-images.githubusercontent.com/78341083/135269516-d1100cca-0282-49fa-92d3-06d453702829.png">
 
 
-I made this chrome extension in the learning stage.
+# About Project
+- Project is beginner friendly you just need to know about HTML, CSS and JavaScript for making any contribution in it.
+- Also, project have lit bit work of APIs so, you have to knowelege about that too.
+- It is a Chrome Extension which pop up random jokes to make some day :)
 
-![Zepeto Dancing GIF - Zepeto Dancing Dancer - Discover   Share GIFs](https://user-images.githubusercontent.com/78341083/135270707-bfb1aa98-28c5-470b-b79f-18b09cad9ef2.gif)
+## Contributing doc
+- Here you get all infomation on how to Contribute in this project [Here](https://github.com/Sanju-github002/Chrome-Extension/blob/main/contributing.md)
 
-
-### Here I used HTML, CSS, JS, and also API to fetch data for jokes
+## Code of Conduct
+Read the code of conduct [Here](https://github.com/Sanju-github002/Chrome-Extension/blob/main/CODE_OF_CONDUCT.md)
