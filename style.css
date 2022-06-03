@@ -16,3 +16,39 @@ p {
     background-color: aquamarine;
     padding: 10px;
 }
+
+
+.word {
+  margin: auto;
+  color: rgb(255, 255, 255);
+  font: 700 normal 2.5em 'tahoma';
+  text-shadow: 3px 1px #222324, 1px 3px #222324, 1px 3px #222324;
+}
+
+body {
+  overflow: hidden;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+.cssanimation, .cssanimation span {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+
+.elevateRight { animation-name: elevateRight }
+@keyframes elevateRight {
+  from {
+      transform: translateY(100%) rotate(20deg);
+      transform-origin: left;
+  }
+  40% {
+      transform: rotate(-20deg);
+      transform-origin: left;
+  }
+  65% {
+      transform: rotate(0deg);
+      transform-origin: left;
+  }
+}
