@@ -3,6 +3,17 @@ So, This chrome extension tells a new joke every time you click on it.
 
 <img width="236" alt="Screenshot 2021-09-29 180330" src="https://user-images.githubusercontent.com/78341083/135269472-840a57fc-984d-47c2-b40e-008e48387ecc.png">
 
+## If you want to start working your own extension then follow the below mentioned procedure
+To build a Chrome extension, you can follow the steps below:
+
+Define the purpose of your extension and design the user interface.
+Familiarize yourself with Google’s extension developer documentation and create a developer account.
+Organize your project directory and craft a manifest file outlining extension details.
+Test your extension locally before designing a clean user interface.
+Write the code for your extension using web technologies like HTML, CSS, and JavaScript.
+Test your extension thoroughly to ensure it works as intended.
+Publish your extension to the Chrome Web Store.
+
 
 When to get bored while studying or working you can read a joke to make your mood-lit.
 
